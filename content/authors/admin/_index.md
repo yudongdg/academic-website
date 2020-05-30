@@ -14,7 +14,7 @@ role: A salty fish in Xsoda group which don't has "X"
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Hehai University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
