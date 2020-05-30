@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: A salty fish in Xsoda group which don't has "X"
 
 # Organizations/Affiliations
 organizations:
