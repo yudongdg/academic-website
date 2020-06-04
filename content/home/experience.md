@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "STU"
-  company = "Hehai univercity"
+  title = "CEO"
+  company = "GenCoin"
   company_url = ""
-  location = "Nanjing"
-  date_start = "2019"
+  location = "California"
+  date_start = "2017-01-01"
   date_end = ""
   description = """
   Responsibilities include:
